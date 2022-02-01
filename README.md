@@ -1,5 +1,5 @@
 # music21
-This folder contains [music21](http://web.mit.edu/music21/) teaching demos for sessions in Music and Science at Durham University. The best learning resource for [music21](http://web.mit.edu/music21/) are the music21 documentation pages. Start with [What is music21?](http://web.mit.edu/music21/doc/about/what.html) if you don't know what `music21` is all about. 
+This folder contains [music21](http://web.mit.edu/music21/) teaching demos for sessions in Music and Science at Durham University. The best learning resource for [music21](http://web.mit.edu/music21/) are the music21 documentation pages. Start with [What is music21?](http://web.mit.edu/music21/doc/about/what.html) if you don't know what this `python` based tool is all about. 
 
 This first session, titled [music21_demo.ipynb](https://github.com/tuomaseerola/music21/blob/master/music21_demo.ipynb) covers the basics of [Music21](http://web.mit.edu/music21/). It includes a short introduction, few words about the python and code blocks, and introduces the *learning tasks*.
 
