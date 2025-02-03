@@ -1,6 +1,6 @@
 # music21
 
-This folder contains [music21]([http://web.mit.edu/music21/](https://www.music21.org/music21docs/about/what.html)) teaching demos for sessions in _Music and Science_ at Durham University. The best learning resource for [music21]([http://web.mit.edu/music21/](https://www.music21.org/music21docs/about/what.html)) are the [music21 documentation pages]([http://web.mit.edu/music21/]([https://www.music21.org/music21docs/](https://www.music21.org/music21docs/)). Start with [What is music21?]([http://web.mit.edu/music21/doc/about/what.html](https://www.music21.org/music21docs/about/what.html)) if you don't know what this tool is all about. 
+This folder contains [music21](https://www.music21.org/music21docs/about/what.html) teaching demos for sessions in _Music and Science_ at Durham University. The best learning resource for [music21](https://www.music21.org/music21docs/about/what.html) are the [music21 documentation pages](http://web.mit.edu/music21/). Start with [What is music21?](https://www.music21.org/music21docs/about/what.html) if you don't know what this tool is all about. 
 
 This tutorial, titled [ScoreAnalysisTutorial.ipynb](https://github.com/tuomaseerola/music21/blob/master/ScoreAnalysisTutorial.ipynb) covers the basics of [Music21]([http://web.mit.edu/music21/](https://www.music21.org/music21docs/about/what.html)). It includes a short introduction, few words about the python and code blocks, and introduces the *learning tasks*.
 
